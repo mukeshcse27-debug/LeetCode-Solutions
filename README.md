@@ -27,4 +27,8 @@ My java and DSA Sollution to LeetCode problems, organized for coding practice an
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
