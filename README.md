@@ -8,6 +8,7 @@ My java and DSA Sollution to LeetCode problems, organized for coding practice an
 | ------- |
 | [0001-two-sum](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -26,9 +27,14 @@ My java and DSA Sollution to LeetCode problems, organized for coding practice an
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
