@@ -12,6 +12,7 @@ My java and DSA Sollution to LeetCode problems, organized for coding practice an
 | [0088-merge-sorted-array](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ My java and DSA Sollution to LeetCode problems, organized for coding practice an
 | [0074-search-a-2d-matrix](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +46,8 @@ My java and DSA Sollution to LeetCode problems, organized for coding practice an
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mukeshcse27-debug/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
